@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "140018196923",
+    "project_id": "tabaani-5414a",
+    "storage_bucket": "tabaani-5414a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140018196923:android:97149bcb042a7d762fe49e",
+        "android_client_info": {
+          "package_name": "com.example.tabaani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140018196923-d2nid6m0rtjau27415t2rsnic9c1hedd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpJQJcd3lvUVrTknqhFj0TQ8KpJrnzEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140018196923-d2nid6m0rtjau27415t2rsnic9c1hedd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140018196923-m64crs8dfif796992bi04p9orcsss39o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tabaani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
